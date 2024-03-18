@@ -1,4 +1,4 @@
-module github.com/cockroachdb/errors
+module github.com/nikoksr/errors
 
 go 1.19
 
