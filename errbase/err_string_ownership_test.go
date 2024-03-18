@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/cockroachdb/errors/errbase"
-	"github.com/cockroachdb/errors/errorspb"
-	"github.com/cockroachdb/errors/testutils"
+	"github.com/nikoksr/errors/errbase"
+	"github.com/nikoksr/errors/errorspb"
+	"github.com/nikoksr/errors/testutils"
 )
 
 func genEncoded(mt errorspb.MessageType) errorspb.EncodedError {

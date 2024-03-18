@@ -20,7 +20,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/cockroachdb/errors/errorspb"
+	"github.com/nikoksr/errors/errorspb"
 	"github.com/gogo/protobuf/proto"
 	"github.com/gogo/protobuf/types"
 )

@@ -19,8 +19,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/cockroachdb/errors/errbase"
-	"github.com/cockroachdb/errors/errorspb"
+	"github.com/nikoksr/errors/errbase"
+	"github.com/nikoksr/errors/errorspb"
 	"github.com/cockroachdb/redact"
 	"github.com/gogo/protobuf/proto"
 )

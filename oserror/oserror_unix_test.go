@@ -20,8 +20,8 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/cockroachdb/errors"
-	"github.com/cockroachdb/errors/testutils"
+	"github.com/nikoksr/errors"
+	"github.com/nikoksr/errors/testutils"
 )
 
 func TestErrorPredicatesUnix(t *testing.T) {

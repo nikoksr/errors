@@ -21,13 +21,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cockroachdb/errors/assert"
-	"github.com/cockroachdb/errors/errbase"
-	"github.com/cockroachdb/errors/hintdetail"
-	"github.com/cockroachdb/errors/issuelink"
-	"github.com/cockroachdb/errors/markers"
-	"github.com/cockroachdb/errors/stdstrings"
-	"github.com/cockroachdb/errors/testutils"
+	"github.com/nikoksr/errors/assert"
+	"github.com/nikoksr/errors/errbase"
+	"github.com/nikoksr/errors/hintdetail"
+	"github.com/nikoksr/errors/issuelink"
+	"github.com/nikoksr/errors/markers"
+	"github.com/nikoksr/errors/stdstrings"
+	"github.com/nikoksr/errors/testutils"
 	"github.com/pkg/errors"
 )
 

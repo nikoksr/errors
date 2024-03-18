@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/cockroachdb/errors/errorspb"
+	"github.com/nikoksr/errors/errorspb"
 	"github.com/gogo/protobuf/proto"
 	pkgErr "github.com/pkg/errors"
 )

@@ -23,8 +23,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/cockroachdb/errors/safedetails"
-	"github.com/cockroachdb/errors/testutils"
+	"github.com/nikoksr/errors/safedetails"
+	"github.com/nikoksr/errors/testutils"
 	"github.com/cockroachdb/redact"
 )
 

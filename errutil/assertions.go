@@ -15,9 +15,9 @@
 package errutil
 
 import (
-	"github.com/cockroachdb/errors/assert"
-	"github.com/cockroachdb/errors/barriers"
-	"github.com/cockroachdb/errors/withstack"
+	"github.com/nikoksr/errors/assert"
+	"github.com/nikoksr/errors/barriers"
+	"github.com/nikoksr/errors/withstack"
 )
 
 // AssertionFailedf creates an internal error.

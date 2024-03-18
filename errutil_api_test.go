@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cockroachdb/errors"
-	"github.com/cockroachdb/errors/testutils"
+	"github.com/nikoksr/errors"
+	"github.com/nikoksr/errors/testutils"
 )
 
 func TestUnwrap(t *testing.T) {

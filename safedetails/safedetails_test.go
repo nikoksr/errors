@@ -22,11 +22,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cockroachdb/errors/errbase"
-	_ "github.com/cockroachdb/errors/errutil"
-	"github.com/cockroachdb/errors/markers"
-	"github.com/cockroachdb/errors/safedetails"
-	"github.com/cockroachdb/errors/testutils"
+	"github.com/nikoksr/errors/errbase"
+	_ "github.com/nikoksr/errors/errutil"
+	"github.com/nikoksr/errors/markers"
+	"github.com/nikoksr/errors/safedetails"
+	"github.com/nikoksr/errors/testutils"
 	"github.com/cockroachdb/redact"
 )
 

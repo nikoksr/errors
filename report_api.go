@@ -15,7 +15,7 @@
 package errors
 
 import (
-	"github.com/cockroachdb/errors/report"
+	"github.com/nikoksr/errors/report"
 	"github.com/getsentry/sentry-go"
 )
 

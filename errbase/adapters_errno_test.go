@@ -22,10 +22,10 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/cockroachdb/errors/errbase"
-	"github.com/cockroachdb/errors/errorspb"
-	"github.com/cockroachdb/errors/oserror"
-	"github.com/cockroachdb/errors/testutils"
+	"github.com/nikoksr/errors/errbase"
+	"github.com/nikoksr/errors/errorspb"
+	"github.com/nikoksr/errors/oserror"
+	"github.com/nikoksr/errors/testutils"
 	"github.com/gogo/protobuf/types"
 )
 

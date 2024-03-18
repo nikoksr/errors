@@ -15,9 +15,9 @@
 package errutil
 
 import (
-	"github.com/cockroachdb/errors/join"
-	"github.com/cockroachdb/errors/secondary"
-	"github.com/cockroachdb/errors/withstack"
+	"github.com/nikoksr/errors/join"
+	"github.com/nikoksr/errors/secondary"
+	"github.com/nikoksr/errors/withstack"
 	"github.com/cockroachdb/redact"
 )
 

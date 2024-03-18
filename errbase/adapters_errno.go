@@ -22,7 +22,7 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/cockroachdb/errors/errorspb"
+	"github.com/nikoksr/errors/errorspb"
 	"github.com/gogo/protobuf/proto"
 )
 

@@ -19,8 +19,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/cockroachdb/errors/errbase"
-	"github.com/cockroachdb/errors/stdstrings"
+	"github.com/nikoksr/errors/errbase"
+	"github.com/nikoksr/errors/stdstrings"
 	"github.com/cockroachdb/redact"
 	"github.com/gogo/protobuf/proto"
 )

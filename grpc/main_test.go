@@ -8,7 +8,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	"github.com/cockroachdb/errors/grpc/middleware"
+	"github.com/nikoksr/errors/grpc/middleware"
 	"github.com/hydrogen18/memlistener"
 )
 

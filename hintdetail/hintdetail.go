@@ -18,7 +18,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/cockroachdb/errors/errbase"
+	"github.com/nikoksr/errors/errbase"
 )
 
 // WithHint decorates an error with a textual hint.

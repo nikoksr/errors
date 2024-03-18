@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/cockroachdb/errors/testutils"
+	"github.com/nikoksr/errors/testutils"
 	"github.com/kr/pretty"
 )
 

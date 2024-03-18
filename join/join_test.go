@@ -18,7 +18,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/cockroachdb/errors/safedetails"
+	"github.com/nikoksr/errors/safedetails"
 	"github.com/cockroachdb/redact"
 )
 

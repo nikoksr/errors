@@ -17,7 +17,7 @@ package errbase
 import (
 	"fmt"
 
-	"github.com/cockroachdb/errors/errorspb"
+	"github.com/nikoksr/errors/errorspb"
 	pkgErr "github.com/pkg/errors"
 )
 

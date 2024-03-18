@@ -14,7 +14,7 @@
 
 package errors
 
-import "github.com/cockroachdb/errors/withstack"
+import "github.com/nikoksr/errors/withstack"
 
 // This file mirrors the WithStack functionality from
 // github.com/pkg/errors. We would prefer to reuse the withStack

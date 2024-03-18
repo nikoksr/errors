@@ -18,9 +18,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/cockroachdb/errors"
-	"github.com/cockroachdb/errors/errbase"
-	"github.com/cockroachdb/errors/markers"
+	"github.com/nikoksr/errors"
+	"github.com/nikoksr/errors/errbase"
+	"github.com/nikoksr/errors/markers"
 	"github.com/gogo/protobuf/proto"
 )
 

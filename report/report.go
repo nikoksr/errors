@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/cockroachdb/errors/domains"
-	"github.com/cockroachdb/errors/errbase"
-	"github.com/cockroachdb/errors/withstack"
+	"github.com/nikoksr/errors/domains"
+	"github.com/nikoksr/errors/errbase"
+	"github.com/nikoksr/errors/withstack"
 	"github.com/cockroachdb/redact"
 	sentry "github.com/getsentry/sentry-go"
 )

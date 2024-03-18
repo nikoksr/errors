@@ -17,7 +17,7 @@ package errors
 import (
 	"context"
 
-	"github.com/cockroachdb/errors/contexttags"
+	"github.com/nikoksr/errors/contexttags"
 	"github.com/cockroachdb/logtags"
 )
 

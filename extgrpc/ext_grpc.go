@@ -35,7 +35,7 @@
 // Furthermore, since we have to encode all errors as gogoproto Status
 // messages to place them in EncodedError (again because of an Any field),
 // only gogoproto status details can be preserved across EncodeError().
-// See also: https://github.com/cockroachdb/errors/issues/63
+// See also: https://github.com/nikoksr/errors/issues/63
 
 package extgrpc
 
@@ -43,9 +43,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/cockroachdb/errors"
-	"github.com/cockroachdb/errors/errbase"
-	"github.com/cockroachdb/errors/markers"
+	"github.com/nikoksr/errors"
+	"github.com/nikoksr/errors/errbase"
+	"github.com/nikoksr/errors/markers"
 	"github.com/cockroachdb/redact"
 	gogorpc "github.com/gogo/googleapis/google/rpc"
 	"github.com/gogo/protobuf/proto"

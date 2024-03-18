@@ -20,9 +20,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cockroachdb/errors/errbase"
-	"github.com/cockroachdb/errors/testutils"
-	"github.com/cockroachdb/errors/withstack"
+	"github.com/nikoksr/errors/errbase"
+	"github.com/nikoksr/errors/testutils"
+	"github.com/nikoksr/errors/withstack"
 	pkgErr "github.com/pkg/errors"
 )
 

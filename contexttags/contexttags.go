@@ -17,7 +17,7 @@ package contexttags
 import (
 	"context"
 
-	"github.com/cockroachdb/errors/errbase"
+	"github.com/nikoksr/errors/errbase"
 	"github.com/cockroachdb/logtags"
 	"github.com/cockroachdb/redact"
 )

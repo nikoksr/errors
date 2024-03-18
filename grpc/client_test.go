@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cockroachdb/errors"
-	"github.com/cockroachdb/errors/grpc/status"
-	"github.com/cockroachdb/errors/testutils"
+	"github.com/nikoksr/errors"
+	"github.com/nikoksr/errors/grpc/status"
+	"github.com/nikoksr/errors/testutils"
 	"google.golang.org/grpc/codes"
 )
 

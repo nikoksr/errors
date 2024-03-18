@@ -24,9 +24,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cockroachdb/errors/errbase"
-	"github.com/cockroachdb/errors/markers"
-	"github.com/cockroachdb/errors/testutils"
+	"github.com/nikoksr/errors/errbase"
+	"github.com/nikoksr/errors/markers"
+	"github.com/nikoksr/errors/testutils"
 	pkgErr "github.com/pkg/errors"
 )
 

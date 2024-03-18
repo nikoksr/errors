@@ -14,7 +14,7 @@
 
 package errors
 
-import "github.com/cockroachdb/errors/secondary"
+import "github.com/nikoksr/errors/secondary"
 
 // WithSecondaryError enhances the error given as first argument with
 // an annotation that carries the error given as second argument.  The
